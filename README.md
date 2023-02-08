@@ -16,3 +16,10 @@ I'd like to complete it, just for my own knowledge, but this might
 be one I skip.
 
 Hoping happier challenges are ahead...
+
+Late breaking update-
+I just received the following email from the API:
+Your OpenWeatherMap API key 469e007e7e8ee0761609b50150ffe155 is temporary blocked due to the continual sufficient exceeding of the calls per minute limit by performing 609 requests within a minute but the limit for the Free account is 60 rpm.
+
+I got this about an hour ago, so I'm not sure if any of my attempts at debugging after that time were successful.  
+Obviously, I was getting through to the API.  Will try again.
